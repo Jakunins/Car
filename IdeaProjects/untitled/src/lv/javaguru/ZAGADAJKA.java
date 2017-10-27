@@ -1,4 +1,5 @@
 package lv.javaguru;
+
 import java.util.*;
 
 public class ZAGADAJKA {
